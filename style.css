@@ -88,6 +88,9 @@ body {
   font-size: 14px;
   color: #626262;
   margin: 0;
+  line-height: 1.5;
+  max-width: 420px;
+  overflow: hidden;
 }
 
 .hero-button {
